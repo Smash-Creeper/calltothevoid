@@ -7,7 +7,7 @@ function Battle_SetEnemy() {
 	if(Battle_IsEnemySlotValid(SLOT) && Battle_IsEnemyValid(ENEMY)){
 		Battle_RemoveEnemy(SLOT);
 		if(!object_exists(ENEMY)&&instance_exists(ENEMY)){
-			if(ENEMY==self){
+			if(ENEMY==id){
 				ENEMY=id;
 			}
 			var proc=0;

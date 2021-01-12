@@ -26,7 +26,7 @@ switch(Battle_GetMenu()){
 		if(dmg>0){
 			audio_play_sound(snd_damage,0,false);
 			var shake=instance_create_depth(0,0,0,shaker);
-			shake.target=self;
+			shake.target=id;
 			shake.var_name="x";
 			shake.shake_distance=15;
 			shake.shake_decrease=3;
