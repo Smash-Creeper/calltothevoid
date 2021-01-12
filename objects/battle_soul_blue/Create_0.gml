@@ -1,16 +1,10 @@
-event_inherited();
-
-moveable=true;
-dir=DIR.DOWN;
-move=0;
-impact=false;
-_gravity_jump=0.1;
-_speed_jump=4;
-_gravity_fall=0.15;
-_gravity_fall_max=5;
-
-_platform_bounce_met=false;
-
-spd=10
-
-moving=0
+event_inherited()
+moveable = 1
+dir = 270
+move = 0
+impact = 0
+_gravity_jump = 0.1
+_speed_jump = 4
+_gravity_fall = 0.15
+_gravity_fall_max = 5
+global.player_color = c_blue;

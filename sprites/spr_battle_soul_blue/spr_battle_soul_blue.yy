@@ -17,19 +17,19 @@
   "width": 16,
   "height": 16,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "",
+    "path": "",
   },
   "swatchColours": null,
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"de04ab3b-67ee-4823-8c61-920c19c3d855","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"de04ab3b-67ee-4823-8c61-920c19c3d855","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":{"name":"7b819529-a56a-4283-a8d8-2b8ea6654c5e","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_battle_soul_blue","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"de04ab3b-67ee-4823-8c61-920c19c3d855","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"0b57af16-2dc0-4ba4-a85f-ce7b10517734","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0b57af16-2dc0-4ba4-a85f-ce7b10517734","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":{"name":"7b819529-a56a-4283-a8d8-2b8ea6654c5e","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_battle_soul_blue","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"0b57af16-2dc0-4ba4-a85f-ce7b10517734","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5f8af58b-7b73-46c3-9cbd-619ef13657b9","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5f8af58b-7b73-46c3-9cbd-619ef13657b9","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":{"name":"3c78a314-6311-4f02-8688-87fb855c6132","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_battle_soul_blue","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"5f8af58b-7b73-46c3-9cbd-619ef13657b9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1efb9f56-75cb-4159-9d01-222874b93131","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1efb9f56-75cb-4159-9d01-222874b93131","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"LayerId":{"name":"3c78a314-6311-4f02-8688-87fb855c6132","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_battle_soul_blue","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","name":"1efb9f56-75cb-4159-9d01-222874b93131","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_battle_soul_blue","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},
@@ -44,8 +44,8 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"cc38046d-b048-4cd8-a895-753b82339f1d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"de04ab3b-67ee-4823-8c61-920c19c3d855","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"eff3c6ca-ee72-468b-8c44-e353de3b47b0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b57af16-2dc0-4ba4-a85f-ce7b10517734","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8cbd9a07-1bdc-432f-adbd-129458914b77","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5f8af58b-7b73-46c3-9cbd-619ef13657b9","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0aa3f1a7-4b0d-49d8-9223-436039ade8f1","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1efb9f56-75cb-4159-9d01-222874b93131","path":"sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -69,11 +69,11 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7b819529-a56a-4283-a8d8-2b8ea6654c5e","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3c78a314-6311-4f02-8688-87fb855c6132","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Soul",
+    "path": "folders/Sprites/Battle/Soul.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_battle_soul_blue",
