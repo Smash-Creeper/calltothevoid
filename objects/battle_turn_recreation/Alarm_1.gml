@@ -17,7 +17,7 @@ boneproc1++
 if(boneproc1<5){
 alarm[1] = 30
 }else{
-alarm[5] = 90
+alarm[5] = 91
 Anim_Create(battle_board,"left",0,0,120,-55,55)
 Anim_Create(battle_board,"right",0,0,120,-55,55)
 Battle_FunniFall(65)

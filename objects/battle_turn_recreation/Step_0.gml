@@ -45,7 +45,7 @@ if(time = 315){
 		b.length=0
 		b.dir=DIR.DOWN
 		Anim_Create(b,"x",0,0,0+(10*proc),700,90,60)
-		Anim_Create(b,"length",0,0,0,60,65,30)
+		Anim_Create(b,"length",0,0,0,60,7,30)
 		proc++
 	}
 	var proc = 0
@@ -54,7 +54,7 @@ if(time = 315){
 		b.length=0
 		b.dir=DIR.UP
 		Anim_Create(b,"x",0,0,640-(10*proc),-700,90,60)
-		Anim_Create(b,"length",0,0,0,60,65,30)
+		Anim_Create(b,"length",0,0,0,60,7,30)
 		proc++
 	}
 }
@@ -65,7 +65,7 @@ if(time = 375){
 		b.length=0
 		b.dir=DIR.DOWN
 		Anim_Create(b,"x",0,0,0+(10*proc),700,90,60)
-		Anim_Create(b,"length",0,0,0,60,65,30)
+		Anim_Create(b,"length",0,0,0,60,7,30)
 		proc++
 	}
 	var proc = 0
@@ -74,7 +74,7 @@ if(time = 375){
 		b.length=0
 		b.dir=DIR.UP
 		Anim_Create(b,"x",0,0,640-(10*proc),-700,90,60)
-		Anim_Create(b,"length",0,0,0,60,65,30)
+		Anim_Create(b,"length",0,0,0,60,7,30)
 		proc++
 	}
 }
