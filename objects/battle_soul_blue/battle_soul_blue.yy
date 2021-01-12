@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "spr_battle_soul",
-    "path": "sprites/spr_battle_soul/spr_battle_soul.yy",
+    "name": "spr_battle_soul_blue",
+    "path": "sprites/spr_battle_soul_blue/spr_battle_soul_blue.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_battle_soul_collision",
+    "path": "sprites/spr_battle_soul_collision/spr_battle_soul_collision.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "battle_soul",
