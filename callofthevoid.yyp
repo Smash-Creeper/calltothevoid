@@ -192,6 +192,7 @@
     {"id":{"name":"Battle_GetEnemyDEF","path":"scripts/Battle_GetEnemyDEF/Battle_GetEnemyDEF.yy",},"order":3,},
     {"id":{"name":"Battle_IsBoardTransforming","path":"scripts/Battle_IsBoardTransforming/Battle_IsBoardTransforming.yy",},"order":1,},
     {"id":{"name":"Battle_GetBoardSurface","path":"scripts/Battle_GetBoardSurface/Battle_GetBoardSurface.yy",},"order":3,},
+    {"id":{"name":"spr_sans_legs_angy","path":"sprites/spr_sans_legs_angy/spr_sans_legs_angy.yy",},"order":2,},
     {"id":{"name":"Battle_IsTurnValid","path":"scripts/Battle_IsTurnValid/Battle_IsTurnValid.yy",},"order":1,},
     {"id":{"name":"Battle_SetTurnNumber","path":"scripts/Battle_SetTurnNumber/Battle_SetTurnNumber.yy",},"order":3,},
     {"id":{"name":"Battle_GetTurnNumber","path":"scripts/Battle_GetTurnNumber/Battle_GetTurnNumber.yy",},"order":5,},
