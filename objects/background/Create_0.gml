@@ -3,25 +3,17 @@ depth = DEPTH_BATTLE.BG;
 enum BACKGROUND_EFFECTS
 {
 	Normal,
-	Wave
-}
-
-enum EFFECT_DATA
-{
-	Alpha,
-	ScaleX,
-	ScaleY
+	Sans
 }
 
 effect = BACKGROUND_EFFECTS.Normal;
 
-uni_wave_time = shader_get_uniform(shd_wave, "Time");
-uni_wave_texel = shader_get_uniform(shd_wave, "Texel");
+uni_wave_time1 = shader_get_uniform(shd_sans1, "Time");
+uni_wave_texel1 = shader_get_uniform(shd_sans1, "Texel");
 
-uni_wave_speed = shader_get_uniform(shd_wave, "WaveSpeed");
-uni_wave_freq = shader_get_uniform(shd_wave, "WaveFreq");
-uni_wave_size = shader_get_uniform(shd_wave, "WaveSize");
+uni_wave_time2 = shader_get_uniform(shd_sans2, "Time");
+uni_wave_texel2 = shader_get_uniform(shd_sans2, "Texel");
 
-wave_speed = 0.003;
-wave_freq = 30;
-wave_size = 5;
+tick = 0;
+
+sprite = 0;
