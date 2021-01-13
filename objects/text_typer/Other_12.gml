@@ -560,4 +560,15 @@ switch(cmd[|0]){
 			_skip_space=cmd[|1];
 		}
 		break;
+		
+	case "sans_sweat":
+		if(is_real(cmd[|1])){
+			face_battle_sans.emotion_sweat=cmd[|1];
+		}
+		break;
+	case "sans_state":
+		if(is_real(cmd[|1])){
+			battle_enemy_sans.sans_state=cmd[|1];
+		}
+		break;
 }

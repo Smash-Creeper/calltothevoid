@@ -72,8 +72,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"76df3a46-1d9e-4fca-968e-d29ef020661f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sans Battles",
-    "path": "folders/Sprites/Sans Sprites/Sans Battles.yy",
+    "name": "Happy",
+    "path": "folders/Sprites/Sans Sprites/Sans Battles/Happy.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_sans_legs",

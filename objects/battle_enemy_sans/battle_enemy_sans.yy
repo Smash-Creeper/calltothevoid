@@ -31,6 +31,8 @@
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"battle_enemy_sans","path":"objects/battle_enemy_sans/battle_enemy_sans.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"battle_enemy_sans","path":"objects/battle_enemy_sans/battle_enemy_sans.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"battle_enemy_sans","path":"objects/battle_enemy_sans/battle_enemy_sans.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":7,"collisionObjectId":null,"parent":{"name":"battle_enemy_sans","path":"objects/battle_enemy_sans/battle_enemy_sans.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":20,"eventType":7,"collisionObjectId":null,"parent":{"name":"battle_enemy_sans","path":"objects/battle_enemy_sans/battle_enemy_sans.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

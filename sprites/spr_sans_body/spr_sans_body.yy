@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a5e77b7b-dd0f-41c9-abc5-8e3417935446","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sans Battles",
-    "path": "folders/Sprites/Sans Sprites/Sans Battles.yy",
+    "name": "Happy",
+    "path": "folders/Sprites/Sans Sprites/Sans Battles/Happy.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_sans_body",
