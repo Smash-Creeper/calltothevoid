@@ -10,5 +10,8 @@ function Encounter_Custom() {
 	//Gaster Blaster
 	Encounter_Set(3,-1,battle_enemy_sans,-1,"* It San.",-1);
 
+	//Gaster Blaster
+	Encounter_Set(4,-1,battle_enemy_sans_angy,-1,"* It San.",-1);
+
 
 }
