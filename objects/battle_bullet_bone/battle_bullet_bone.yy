@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_bone_body",
-    "path": "sprites/spr_bone_body/spr_bone_body.yy",
+    "name": "spr_bone_body_1",
+    "path": "sprites/spr_bone_body_1/spr_bone_body_1.yy",
   },
   "solid": false,
   "visible": true,

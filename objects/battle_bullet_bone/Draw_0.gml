@@ -7,6 +7,8 @@ if(type==1){
 }else if(type==2){
 	color=make_color_rgb(255,160,64);
 }else if(type==3){
+	color=c_yellow;
+}else if(type==4){
 	color=bone_color;
 }
 var topl=sprite_get_width(bonetop);

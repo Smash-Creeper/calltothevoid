@@ -1,1 +1,1 @@
-Encounter_Start(3);
+Encounter_Start(4);

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_sans_head",
-    "path": "sprites/spr_sans_head/spr_sans_head.yy",
+    "name": "spr_sans_head_angy",
+    "path": "sprites/spr_sans_head_angy/spr_sans_head_angy.yy",
   },
   "solid": false,
   "visible": true,

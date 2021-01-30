@@ -16,13 +16,14 @@ break;
 case 1:
 
 var body_x = sin(siner1/9);
-var body_y = (sin(siner1/9));
-var body_angle = sin(siner1/12)*4.5;
-var head_x = sin(siner1/9);
-var head_y = 0;
+var body_y = (sin(siner1/12)*1);
+var body_angle = sin(siner1/24)*3;
+var head_angle = sin(siner1/24)*6;
+var head_x = lengthdir_x(sin(siner1/12)*1,head_angle)
+var head_y = lengthdir_y(sin(siner1/12)*1,head_angle)
 
 draw_sprite_ext(spr_sans_legs_angy, 0, x, y, 2, 2, 0, c_white,1)
-draw_sprite_ext(spr_sans_body_angy, 0, x, y-48+body_y, 2, 2, -4.5+body_angle, c_white,1)
-draw_sprite_ext(spr_sans_head_angy, sans_face.emotion, x, y-114, 2, 2, 0, c_white,1)
+draw_sprite_ext(spr_sans_body_angy, 0, x, y-48+body_y, 2, 2, -0.5+body_angle, c_white,1)
+draw_sprite_ext(spr_sans_head_angy, sans_face.emotion, x+head_x, y-84+head_y+body_y, 2, 2, -1+head_angle, c_white,1)
 break;
 }

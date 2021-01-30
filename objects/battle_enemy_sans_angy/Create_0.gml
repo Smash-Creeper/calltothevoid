@@ -22,3 +22,9 @@ sans_face.emotion = 0
 _text_cutscene_prefix = "{scale 2}{voice -1}{speed 2}{space_y 2}{space_x 0}{font 3}{shadow false}{gui true}{depth "+string(DEPTH_UI.TEXT)+"}"
 
 sans_state = 0
+
+global.succ = true
+
+Player_SetHp(39)
+Player_SetHpMax(39)
+Player_SetLv(12)

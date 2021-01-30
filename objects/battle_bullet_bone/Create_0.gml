@@ -15,6 +15,7 @@ auto_destroy_dir=-1;
 no_bottom=false;
 time=-1;
 outside=false;
+excempt=false;
 xscale=1
 yscale=xscale
 alpha=1
@@ -32,3 +33,5 @@ ogy=y
 
 hspd=0
 vspd=0
+
+follow_board=false

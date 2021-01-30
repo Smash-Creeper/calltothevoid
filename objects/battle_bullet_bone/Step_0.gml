@@ -2,7 +2,9 @@ image_angle=dir;
 image_xscale=length;
 image_yscale=xscale;
 
+if(excempt = false){
 depth=(!outside ? DEPTH_BATTLE.BULLET-dd : DEPTH_BATTLE.BULLET_OUTSIDE_LOW-dd);
+}
 
 if(increase=true){
 if(increase_state=0){
@@ -17,14 +19,18 @@ if(length>length_max){
 }
 }
 
-
+if(follow_board){
+		x+=battle_board.x-battle_board.xprevious;
+		y+=battle_board.y-battle_board.yprevious;
+	}
+	
 if(place_meeting(x,y,battle_soul)){
 	var collision=true;
 /*	if(type!=0&&type!=3){
 		collision=(floor(battle_soul.x)!=floor(battle_soul.xprevious)||floor(battle_soul.y)!=floor(battle_soul.yprevious));
 		collision=(type==1 ? collision : !collision);
 	}*/
-	if(type!=0&&type!=3){
+	if(type!=0&&type!=3&&type!=4){
 		if(type=1){
 		if(battle_soul.moving=1){
 		var collision=true	
@@ -39,6 +45,10 @@ if(place_meeting(x,y,battle_soul)){
 		var collision=true	
 		}
 		}
+	}else if(type = 3){
+		var collision=true
+		battle_ui._kractive = 1
+		battle_ui._kramount = global.lemoneyeshurt
 	}
 	if(collision){
 		Battle_CallSoulEventBulletCollision();
